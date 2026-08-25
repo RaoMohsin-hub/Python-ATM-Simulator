@@ -94,6 +94,4 @@ This project was created as a Python learning project to practice:
 
 ## Author
 
-Mohsin Raza
-
 **Mohsin Raza**
